@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60114df0.css",
+    "main.js": "/static/js/main.be07e7df.js",
+    "static/media/pattern-tree.svg": "/static/media/pattern-tree.156bb943ac7fd244f10c115d085e085e.svg",
+    "static/media/bg-sign-in-basic_large.jpeg": "/static/media/bg-sign-in-basic_large.72039a6cb1d9cb3f40ec.jpeg",
+    "static/media/bg-sign-in-basic.jpeg": "/static/media/bg-sign-in-basic.e5950adc46138e3de24c.jpeg",
+    "static/media/bg-sign-up-cover.jpeg": "/static/media/bg-sign-up-cover.2084b1884a0df7c37687.jpeg",
+    "static/media/bg-profile.webp": "/static/media/bg-profile.06265996c8a3395a03e4.webp",
+    "static/media/landing_bg.jpeg": "/static/media/landing_bg.7e7a26254ffc4b5c4c61.jpeg",
+    "static/media/logo-p2p.png": "/static/media/logo-p2p.7e117e45e1ceb448f6bb.png",
+    "static/media/bg-sign-in-basic_mobile.jpeg": "/static/media/bg-sign-in-basic_mobile.7695a1719a4c4a2ccbeb.jpeg",
+    "static/media/schedule_ru.jpeg": "/static/media/schedule_ru.e75a1989f8e644a1dd39.jpeg",
+    "static/media/schedule_eng.jpeg": "/static/media/schedule_eng.16c1cd3cd275bef841ed.jpeg",
+    "static/media/schedule.jpg": "/static/media/schedule.cbefde71ae454f968743.jpg",
+    "static/media/web_money.png": "/static/media/web_money.4fd19a37313e1048999f.png",
+    "static/media/Uzcard.png": "/static/media/Uzcard.d53cbe77bc606d05804b.png",
+    "static/media/visa.png": "/static/media/visa.8f3a1032421edfebd75a.png",
+    "static/media/about.jpeg": "/static/media/about.9e52be750dc36e511b20.jpeg",
+    "static/media/accel.png": "/static/media/accel.6680752e277d34b6c00c.png",
+    "static/media/paypal-m.png": "/static/media/paypal-m.ffb37d613c300473dbde.png",
+    "static/media/play_market.svg": "/static/media/play_market.68935a28e750f7054a763b953f85f13b.svg",
+    "static/media/app_store.svg": "/static/media/app_store.8fd050156c0092aa5f674dc427ee842c.svg",
+    "index.html": "/index.html",
+    "main.60114df0.css.map": "/static/css/main.60114df0.css.map",
+    "main.be07e7df.js.map": "/static/js/main.be07e7df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60114df0.css",
+    "static/js/main.be07e7df.js"
+  ]
+}
